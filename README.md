@@ -20,7 +20,7 @@ Maven 3.x
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/pryhmez/DroneApp
 ```
 
 Build the application using Maven:
