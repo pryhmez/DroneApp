@@ -49,7 +49,7 @@ mvn clean install -Pprod
 ```
 
 ##Note that
-The that the in-memory database (H2) has already been setup and saves to the folder data which has already been preloaded with mock data of some Drones and Mdications therefore no configuration or connection to a database is needed.
+The that the in-memory database (H2) has already been setup and saves to the folder data which has already been preloaded with mock data of some Drones and Medication therefore no configuration or connection to a database is needed.
 
 
 
