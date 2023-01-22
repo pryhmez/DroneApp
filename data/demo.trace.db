@@ -1,0 +1,6 @@
+2023-01-22 16:27:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DRONE" not found (this database is empty); SQL statement:
+insert into drone (id, battery_capacity, model, serial_number, state, weight_limit) values (default, ?, ?, ?, ?, ?) [42104-214]
+2023-01-22 16:27:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DRONE" not found (this database is empty); SQL statement:
+select d1_0.id,d1_0.battery_capacity,d1_0.model,d1_0.serial_number,d1_0.state,d1_0.weight_limit from drone d1_0 [42104-214]
